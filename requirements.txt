@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+streamlit-authenticator==0.3.3
